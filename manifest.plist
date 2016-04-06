@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://10.1.33.96:8443/etms/download/InternetKT.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://10.1.33.96:8443/etms/download/image.57x57.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://10.1.33.96:8443/etms/download/image.512x512.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.chnsys.InternetKT</string>
+				<key>bundle-version</key>
+				<string>1.0.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>InternetKT</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
