@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.1.23.69:8443/etms/download/InternetKT.ipa</string>
+					<string>https://raw.githubusercontent.com/yanghuaibing1680/epos/master/InternetKT.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
